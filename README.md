@@ -4,7 +4,7 @@ PRTG Device Template for  Bosch Rexroth ctrlX Core X3 devices
 This project contains all the files necessary to integrate the ctrlx
 into PRTG for auto discovery and sensor creation.
 
-Please use this link to download [ctrlX  Template Install package](https://gitlab.com/PRTG/Device-Templates/ctrlX/-/jobs/artifacts/master/download?job=PRTGDistZip)
+Please use this link to download [ctrlX  Template Install package](PRTG/devicetemplates/Bosch Rexroth ctrlX.odt)
 
 Installation Instructions
 =========================
