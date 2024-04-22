@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <ValueLookup id="prtg.ctrlx.interfacelink" desiredValue="1" undefinedState="Warning">
+    <Lookups>
+      <Boolean state="ok" value="1">
+        True
+      </Boolean>
+      <Boolean state="Error" value="0">
+        False
+      </Boolean>
+    </Lookups>
+  </ValueLookup>
