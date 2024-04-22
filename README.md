@@ -32,16 +32,15 @@ The Critical Data You Can Monitor With PRTG, utilizing custom OPC UA sensors, yo
 ------
 
 CORE Battery : Essential to monitor the core bettery voltage
-![ctrlX CORE Battery Sensor](./Images/ctrlX CORE Battery Sensor.png)
+
 
 CORE Temprature:Essential for maintaining optimal operational conditions and preventing overheating.
-![ctrlX CORE Temprature Sensor](./Images/ctrlX CORE Temprature Sensor.png)
+
 
 Memory utilization: Critical for ensuring the PLC operates within its capacity, avoiding potential slowdowns or crashes.
-![ctrlX Memory Usage Sensor](./Images/ctrlX Memory Usage Sensor.png)
+
 
 Network Interfacelink: Vital for tracking communication efficiency and identifying potential network bottlenecks.
-![ctrlX Network Interfacelink Sensor](./Images/ctrlX Network Interfacelink Sensor.png)
 
 ------
 
