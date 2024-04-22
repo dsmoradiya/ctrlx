@@ -27,7 +27,7 @@ The Critical Data You Can Monitor With PRTG, utilizing custom OPC UA sensors, yo
 ![ctrlX CORE Battery Sensor](./Images/ctrlX_CORE_Battery_Sensor.png)
 ![ctrlX CORE Temprature Sensor](./Images/ctrlX_CORE_Temprature_Sensor.png)
 ![ctrlX Memory Usage Sensor](./Images/ctrlX_Memory_Usage_Sensor.png)
-![ctrlX Network Interfacelink Sensor](./Images/ctrlX_Network_Interfacelink_Sensor.png)
+![ctrlX Network Interfacelink Sensor](./Images/ctrlX_Network_Interfacelink.png)
 
 ------
 
