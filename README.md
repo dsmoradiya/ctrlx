@@ -25,9 +25,9 @@ Template: Bosch Rexroth ctrlX (Bosch Rexroth ctrlX.odt)
 ------
 The Critical Data You Can Monitor With PRTG, utilizing custom OPC UA sensors, you can monitor a wide array of vital data points:
 ![ctrlX CORE Battery Sensor](./Images/ctrlX_CORE_Battery_Sensor.png)
-![ctrlX_CORE_Temprature_Sensor](./Images/ctrlX_CORE_Temprature_Sensor.png)
-![ctrlX_Memory_Usage_Sensor](./Images/ctrlX_Memory_Usage_Sensor.png)
-![ctrlX_Network_Interfacelink_Sensor](./Images/ctrlX_Network_Interfacelink_Sensor.png)
+![ctrlX CORE Temprature Sensor](./Images/ctrlX_CORE_Temprature_Sensor.png)
+![ctrlX Memory Usage Sensor](./Images/ctrlX_Memory_Usage_Sensor.png)
+![ctrlX Network Interfacelink Sensor](./Images/ctrlX_Network_Interfacelink_Sensor.png)
 
 ------
 
